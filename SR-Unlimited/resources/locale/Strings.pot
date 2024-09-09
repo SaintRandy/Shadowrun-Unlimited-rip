@@ -72,7 +72,7 @@ msgstr ""
 
 #: /data/convos/5ec72cb53966393412005878.convo:ConversationLink:responsetext
 #: /data/convos/520caeef3363313423007e8a.convo:ConversationLink:responsetext
-msgid "Call Mars"
+msgid "Call Mars."
 msgstr ""
 
 #: /data/convos/5ec72cb53966393412005878.convo:ConversationLink:responsetext

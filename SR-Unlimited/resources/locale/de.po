@@ -13107,7 +13107,7 @@ msgid "Call Clockwork."
 msgstr "Ruf Uhrwerk an."
 
 #: /data/convos/520caeef3363313423007e8a.convo:ConversationLink:responsetext
-msgid "Call Mars"
+msgid "Call Mars."
 msgstr "Rufe Mars an"
 
 #: /data/convos/520caeef3363313423007e8a.convo:ConversationLink:responsetext

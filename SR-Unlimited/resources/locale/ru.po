@@ -13020,7 +13020,7 @@ msgid "Call Clockwork."
 msgstr "Звоните по маслу."
 
 #: /data/convos/520caeef3363313423007e8a.convo:ConversationLink:responsetext
-msgid "Call Mars"
+msgid "Call Mars."
 msgstr "Зов Марса"
 
 #: /data/convos/520caeef3363313423007e8a.convo:ConversationLink:responsetext
